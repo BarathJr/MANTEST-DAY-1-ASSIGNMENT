@@ -1,0 +1,10 @@
+q1)
+  quality assurance -  focuses on improving the processes used to develop software and preventing defects
+  quality control - focuses on identifying defects in the software product by inspecting and testing 
+
+q2)
+  testing shows the presence of defects - testing can show that defects exist in the software 
+  exhaustive testing is impossible - it is not possible to test all possible inputs conditions and scenarios in software applications
+  early testing saves time and money - testing should begin as early as possible in the software development life cycle
+  defect cluster together - a small number of modules usually contain most of the defects discovered during testing
+  pesticide paradox - repeating the same test cases again and again may eventually stop finding new defects
