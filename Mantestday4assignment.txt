@@ -1,0 +1,29 @@
+
+id:- tc_01
+description :- verify login with valid credentials
+steps 
+1. open the login page
+2. enter username and password
+3. click login
+test data:- username: standard_user password: secret_sauce
+result :- user should successfully log in and navigate to the products page.
+
+id:- tc_02
+description:- verify login with invalid credentials
+steps:-
+1. open the login page
+2. enter an invalid username and password
+3. click login.
+test data :- username: invalid_user password: wrong_password
+result:- error message should display: “username and password do not match any user in this service”.
+
+I’d:-tc_03
+description:- verify login with blank fields
+steps:-
+1. open the login page
+2. leave both fields blank
+3. click login.
+test data :-username: blank password: blank
+result:- error message should display: “username is required”.
+
+
