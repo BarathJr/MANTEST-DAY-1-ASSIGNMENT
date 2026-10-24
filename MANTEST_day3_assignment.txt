@@ -1,0 +1,11 @@
+1)different levels of testing:-
+* unit testing checks individual components
+* integration testing verifies interactions between modules
+* system testing evaluates the complete application 
+* acceptance testing confirms whether software meets user requirements
+
+2)requirement analysis:
+* gathering and understanding user requirements
+* documenting software functionality and constraints
+* validating requirements with stakeholders
+* establishing a clear foundation for software development and testing
