@@ -1,0 +1,20 @@
+1 levels of testing:-
+* unit testing checks individual components to identify defects
+* integration testing verifies communication between different modules
+* system testing evaluates the complete application to ensure all components work correctly
+* acceptance testing confirms whether the software meets user requirements and business expectations before final release
+
+2 five principles of testing:-
+* testing shows the presence of defects but cannot prove their absence
+* exhaustive testing is impossible because all combinations cannot be tested
+* early testing helps identify defects and reduces costs
+* defects usually cluster in specific modules
+* testing depends on the application context and requires suitable approaches
+
+3 agile methodology:-
+agile methodology is an iterative and incremental software development approach 
+where projects are divided into small cycles called sprints teams collaborate 
+regularly with customers and developers continuously test and improve the software 
+feedback helps identify issues early and supports changing requirements agile delivers 
+working software frequently improves quality reduces risks and increases customer satisfaction 
+through continuous communication and collaboration
